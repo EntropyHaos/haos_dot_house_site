@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+# Haos Dot House
 
-### Tools
+## Tools
 
 * Gists [Clickable](http://haos.info/haos_clickables/clickable_gists.html)
 
-### Carroll University
+## Carroll University
 
-#### Spring 2017
+### Spring 2017
 
-* Art104 [Slides](https://entropyhaos.github.io/Carroll_ART104/)
+* **Art104**
+  * [Slides](https://entropyhaos.github.io/Carroll_ART104/)
