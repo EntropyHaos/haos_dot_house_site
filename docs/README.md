@@ -2,7 +2,7 @@
 
 ## Tools
 
-* Gists [Clickable](http://haos.info/haos_clickables/clickable_gists.html)
+* Gists [Clickable](https://benjaminhaos.github.io/haos_clickables/clickable_gists.html)
 
 ## Carroll University
 
