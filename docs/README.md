@@ -8,7 +8,7 @@
 
 ### Spring 2017
 
-* [**Art104**](https://github.com/EntropyHaos/haos_dot_house_site)
+* [**Art104**](https://github.com/EntropyHaos/Carroll_ART104)
   * Final review [slides](https://entropyhaos.github.io/Carroll_ART104/final_review.html)
   * Midterm [Slides](https://entropyhaos.github.io/Carroll_ART104/midterm_review.html)
   * Semester Paper
